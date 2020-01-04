@@ -1,4 +1,6 @@
 "NSCameraUsageDescription" = "Cette application nécessite un accès à l'appareil photo pour prendre des photos.";
 "NSPhotoLibraryUsageDescription" = "Cette application doit avoir accès à votre galerie de photos pour sélectionner des images.";
-"Search friends" = "Freunde suchen";
-"Your friends" = "Deine Freunde";
+"Search friends" = "Rechercher des amis";
+"Your friends" = "Tes amis";
+"Get connected" = "Soyez connectés";
+"Stay connected" = "Rester connecté";

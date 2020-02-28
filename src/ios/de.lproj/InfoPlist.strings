@@ -1,6 +1,7 @@
 "NSCameraUsageDescription" = "Diese App benötigt Zugriff auf die Kamera, um Bilder aufnehmen zu können.";
 "NSPhotoLibraryUsageDescription" = "Diese App benötigt Zugriff auf das Fotoarchiv, um Bilder auswählen zu können.";
 "NSFaceIDUsageDescription" = "Darf diese App Face ID zum Schutz deiner Daten nutzen?";
+"NSMicrophoneUsageDescription" = "Diese App benötigt Zugriff auf das Mikrofon, um Audio-Aufnahmen aufnehmen zu können.";
 "Search friends" = "Freunde suchen";
 "Your friends" = "Deine Freunde";
 "Get connected" = "Verbinde dich";
